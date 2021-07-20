@@ -1,0 +1,4 @@
+#Tue Jul 20 12:35:55 KST 2021
+base.0=C\:\\Users\\dbsgu\\projects\\android_codelab\\4. Activity_Fragment_Lifecycle\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
